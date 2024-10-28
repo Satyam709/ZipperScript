@@ -1,1 +1,1 @@
-##Its a script to zip all files in current working directory.
+## Its a script to zip all files in current working directory.
